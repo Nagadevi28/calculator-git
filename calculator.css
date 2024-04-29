@@ -1,0 +1,30 @@
+.calculator{
+    background-color: gainsboro;
+    padding:20px;
+    margin-left:38%;
+    margin-right:49%;
+    height:300px;
+    margin-top:20px;
+   
+}
+.display{
+    width:145px;
+    height:27px;
+}
+.bn
+{
+    width:35px;
+    height:35px;
+}
+.bn1{
+    width:35px;
+    height:35px;
+    background-color: black;
+    color: white;
+}
+.bn2{
+    width:35px;
+    height:35px;  
+    background-color: red;
+
+}
